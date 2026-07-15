@@ -1,4 +1,3 @@
-Hi👋,I'm Preethika
 # 💫 About Me:
 I am a Computer Science Engineering Student
 
